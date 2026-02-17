@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Swlyran portifolio</title></title>
+    <title>Swlyran portifolio</title>
 </head>
 <body>
     <h1>Hello world ,,</h1>
